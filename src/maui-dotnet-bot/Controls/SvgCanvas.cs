@@ -31,7 +31,7 @@ namespace maui_dotnet_bot.Controls
             var info = e.Info;
             var canvas = e.Surface.Canvas;
 
-            canvas.Clear(SKColors.Red);
+            canvas.Clear();
 
             foreach (var svg in SvgLayers)
             {

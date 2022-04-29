@@ -1,0 +1,28 @@
+- title: Original antenna
+  icon: original-antenna.svg
+  file: dotnet-bot-antenna_original.svg
+  default: true
+
+- title: Bubble Wand
+  icon: bubble-antenna.svg
+  file: dotnet-bot-antenna_bubble-wand.svg
+
+- title: Go Pro
+  icon: gopro-antenna.svg
+  file: dotnet-bot-antenna_go-pro.svg
+
+- title: Loud Speaker
+  icon: loud-speaker-antenna.svg
+  file: dotnet-bot-antenna_loud-speaker.svg
+
+- title: Propeller
+  icon: prop-antenna.svg
+  file: dotnet-bot-antenna_propeller.svg
+
+- title: Satellite dish
+  icon: satellite-antenna.svg
+  file: dotnet-bot-antenna_satellite-dish.svg
+
+- title: spotlight
+  icon: light-antenna.svg
+  file: dotnet-bot-antenna_spotlight.svg

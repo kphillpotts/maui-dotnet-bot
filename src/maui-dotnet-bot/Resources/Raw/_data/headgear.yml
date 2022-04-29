@@ -1,0 +1,129 @@
+- title: Headband
+  icon: headband.svg
+  file: dotnet-bot-headgear_headband.svg
+  hideAntenna: false
+
+- title: Bowler hat
+  icon: bowler-hat.svg
+  file: dotnet-bot-headgear_bowler-hat.svg
+  hideAntenna: true
+
+- title: Party hat
+  icon: party-hat.svg
+  file: dotnet-bot-headgear_party-hat.svg
+  hideAntenna: true
+
+- title: Alien headband
+  icon: alien-headband.svg
+  file: dotnet-bot-headgear_alien-headband.svg
+  hideAntenna: false
+
+- title: Black beret
+  icon:  beret-black.svg
+  file: dotnet-bot-headgear_beret-black.svg
+  hideAntenna: true
+
+- title: Raspberry beret
+  icon: beret-raspberry.svg
+  file: dotnet-bot-headgear_beret-raspberry.svg
+  hideAntenna: true
+
+- title: Blue bike helmet
+  icon: bike-helmet-blue.svg
+  file: dotnet-bot-headgear_bike-helmet-blue.svg
+  hideAntenna: true
+
+- title: Red bike helmet
+  icon: bike-helmet-red.svg
+  file: dotnet-bot-headgear_bike-helmet-red.svg
+  hideAntenna: true
+
+- title: Clown hat
+  icon: clown-hat.svg
+  file: dotnet-bot-headgear_clown-hat.svg
+  hideAntenna: true
+
+- title: Construction hardhat
+  icon: construction-hat.svg
+  file: dotnet-bot-headgear_construction-hat.svg
+  hideAntenna: true
+
+- title: Cowboy hat
+  icon: cowboy-hat.svg
+  file: dotnet-bot-headgear_cowboy-hat.svg
+  hideAntenna: true
+
+- title: Golden crown
+  icon: crown.svg
+  file: dotnet-bot-headgear_crown.svg
+  hideAntenna: false
+
+- title: Doctor hat and mask
+  icon: doctor-hat.svg
+  file: dotnet-bot-headgear_doctor-hat.svg
+  hideAntenna: true
+
+- title: Knights helmet with horns
+  icon: dungeons-helmet.svg
+  file: dotnet-bot-headgear_dungeons-helmet.svg
+  hideAntenna: true
+
+- title: Green mohawk
+  icon: mohawk-green.svg
+  file: dotnet-bot-headgear_mohawk-green.svg
+  hideAntenna: true
+
+- title: Yellow mohawk
+  icon: mohawk-yellow.svg
+  file: dotnet-bot-headgear_mohawk-yellow.svg
+  hideAntenna: true
+
+- title: Skateboard helmet
+  icon: skateboard-helmet.svg
+  file: dotnet-bot-headgear_skateboard-helmet.svg
+  hideAntenna: true
+
+- title: Winter ski cap
+  icon: ski-hat.svg
+  file: dotnet-bot-headgear_ski-hat.svg
+  hideAntenna: true
+
+- title: Space helmet
+  icon: space-helmet.svg
+  file: dotnet-bot-headgear_space-helmet.svg
+  hideAntenna: true
+
+- title: Blue swim cap
+  icon: swimcap-blue.svg
+  file: dotnet-bot-headgear_swim-cap-blue.svg
+  hideAntenna: false
+
+- title: Green swim cap
+  icon: swimcap-green.svg
+  file: dotnet-bot-headgear_swim-cap-green.svg
+  hideAntenna: false
+
+- title: Red swim cap
+  icon: swimcap-red.svg
+  file: dotnet-bot-headgear_swim-cap-red.svg
+  hideAntenna: false
+
+- title: Yellow swim cap
+  icon: swimcap-yellow.svg
+  file: dotnet-bot-headgear_swim-cap-yellow.svg
+  hideAntenna: false
+
+- title: Black Wizard hat
+  icon: wizard-hat-black.svg
+  file: dotnet-bot-headgear_wizard-hat-black.svg
+  hideAntenna: true
+
+- title: Red wizard hat
+  icon: wizard-hat-red.svg
+  file: dotnet-bot-headgear_wizard-hat-red.svg
+  hideAntenna: true
+
+- title: Turquoise wizard hat
+  icon: wizard-hat-turquoise.svg
+  file: dotnet-bot-headgear_wizard-hat-turquoise.svg
+  hideAntenna: true
