@@ -1,27 +1,34 @@
-﻿using Svg.Skia;
+﻿using maui_dotnet_bot.ViewModels;
+using Svg.Skia;
 
 namespace maui_dotnet_bot;
 
 public partial class MainPage : ContentPage
 {
+    MainViewModel viewModel;
+
 
     public MainPage()
     {
         InitializeComponent();
+        
+        viewModel = new MainViewModel();
     }
 
     protected override async void OnAppearing()
     {
         base.OnAppearing();
 
-        var background = await LoadRawSvg("objects/backgrounds/dotnet-bot-backgrounds_clown.svg");
-        var body = await LoadRawSvg("objects/base.svg");
-        var legs = await LoadRawSvg("objects/legs/dotnet-bot-legs_original.svg");
+        await viewModel.LoadBotPartsAsync();
+
+        //var background = await LoadRawSvg("objects/backgrounds/dotnet-bot-backgrounds_clown.svg");
+        //var body = await LoadRawSvg("objects/base.svg");
+        //var legs = await LoadRawSvg("objects/legs/dotnet-bot-legs_original.svg");
 
         // add to svg collection
-        SvgCanvas.SvgLayers.Add(background);
-        SvgCanvas.SvgLayers.Add(body);
-        SvgCanvas.SvgLayers.Add(legs);
+        //SvgCanvas.SvgLayers.Add(background);
+        //SvgCanvas.SvgLayers.Add(body);
+        //SvgCanvas.SvgLayers.Add(legs);
     }
 
     private SKSvg ReadEmbeddedSvg(string resourceName)
