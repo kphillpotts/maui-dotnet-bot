@@ -50,6 +50,13 @@
 
 	<ItemGroup>
 	  <None Remove="Resources\dotnet_bot_splash.svg" />
+	  <None Remove="Resources\Raw\test.svg" />
+	  <None Remove="Resources\Raw\backgrounds\dotnet-bot-backgrounds_clown.svg" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <PackageReference Include="SkiaSharp.Views.Maui.Controls" Version="2.88.0-preview.256" />
+	  <PackageReference Include="Svg.Skia" Version="0.5.12" />
 	</ItemGroup>
 
 </Project>
